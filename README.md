@@ -71,3 +71,4 @@ mail_hatch.notification(
 - Generator for initializer
 - Previews?
 - LICENSE
+- link to ruby gem in readme
