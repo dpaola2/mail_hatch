@@ -63,3 +63,8 @@ mail_hatch.notification(
 
 1. Ensure your background job worker process is running jobs from the `:default` queue.
 2. Prefix your Mail Hatch invocations with `async_`. For example: `async_notification(...)`.
+
+# TODO
+
+- The `async_` prefix needs work
+- Add / link to official docs w/ list of comprehensive options
