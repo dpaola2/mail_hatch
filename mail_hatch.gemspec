@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
   s.summary = %q{Send stunning emails in minutes}
+  s.metadata = { "source_code_uri" => "https://github.com/dpaola2/mail_hatch" }
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
