@@ -1,10 +1,11 @@
-# Mail Hatch
+# [Mail Hatch](https://www.mailhatch.io)
 
 :fire: Send stunning emails in minutes.
 
 Battle-tested email designs for every need - accessed, configured, and sent through a developer-minded API.
 
-[https://www.mailhatch.io](https://www.mailhatch.io)
+Tested in Production at [Jellyswitch](https://www.jellyswitch.com)
+
 
 ## Installation
 
