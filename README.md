@@ -12,7 +12,7 @@ Battle-tested email designs for every need - accessed, configured, and sent thro
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'mailhatch-rails', require: 'mail_hatch'
+gem 'mail_hatch'
 ```
 
 And run:
