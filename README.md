@@ -1,10 +1,10 @@
 # [Mail Hatch](https://www.mailhatch.io)
 
-:fire: Send stunning emails in minutes.
+:mailbox_with_mail: Send stunning emails in minutes.
 
 Battle-tested email designs for every need - accessed, configured, and sent through a developer-minded API.
 
-Tested in Production at [Jellyswitch](https://www.jellyswitch.com)
+:squirrel: Tested in Production at [Jellyswitch](https://www.jellyswitch.com)
 
 
 ## Installation
