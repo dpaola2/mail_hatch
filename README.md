@@ -70,3 +70,4 @@ mail_hatch.notification(
 - Add / link to official docs w/ list of comprehensive options
 - Generator for initializer
 - Previews?
+- LICENSE
