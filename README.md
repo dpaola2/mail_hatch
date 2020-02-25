@@ -68,3 +68,5 @@ mail_hatch.notification(
 
 - The `async_` prefix needs work
 - Add / link to official docs w/ list of comprehensive options
+- Generator for initializer
+- Previews?
