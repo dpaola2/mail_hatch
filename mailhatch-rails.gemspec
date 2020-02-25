@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.date = %q{2020-02-25}
   s.description = %q{Ruby gem for Mail Hatch}
   s.email = %q{dpaola2@gmail.com}
-  s.files = Dir['lib/*.rb']
+  s.files = ["lib/mail_hatch.rb", "lib/mail_hatch_error.rb", "lib/mail_hatch_job.rb", "lib/mail_hatch_serializer.rb"]
   s.test_files = []
   s.homepage = ""
   s.require_paths = ["lib"]
